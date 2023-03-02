@@ -1,0 +1,46 @@
+.justify{
+    position: absolute;
+    right: 100px;
+}
+
+.span1{
+    color: rgb(255, 149, 0);
+}
+.ppp{
+    font-size:xx-large ;
+font-weight: bolder;
+color: white;
+}
+.inputbox{
+    background-color: black;
+    width: 25%;
+    float: right;
+    position: absolute;
+    right: 100px;
+    padding: 25px;
+}
+.para{
+    float: left;
+    width: 60%;
+}
+.input-group{
+    margin-top: 25px;
+   
+    
+}
+.butt{
+    background-color: rgb(255, 149, 0);
+    color:white;
+    margin-top:25px ;;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+.top{
+  
+    align-content: center;
+}
+.par{
+    
+    align-content: center;
+}
